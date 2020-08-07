@@ -1,3 +1,3 @@
-module git.examples.ucc.edu.ar
+module examples.ucc.edu.ar/gitexample
 
 go 1.14
